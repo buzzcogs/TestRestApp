@@ -17,7 +17,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author root
+ * @author somebody
  */
 @WebServlet(name = "RestEasy", urlPatterns = {"/RestEasy", "/RestEasy/*", "/resteasy/*", "/resteasy"})
 public class RestEasy extends HttpServlet
